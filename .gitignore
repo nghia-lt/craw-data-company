@@ -1,0 +1,12 @@
+node_modules/
+
+# file env
+.env
+.env.localhost
+.env.development
+.env.production
+
+# benchmark
+ab.exe
+abs.exe
+

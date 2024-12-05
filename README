@@ -1,0 +1,4 @@
+1. Cài Nodejs: https://nodejs.org/en/download/package-manager (download version 18)
+2. Chạy: npm install
+3. Chạy: npm start
+4. Dữ liệu sẽ được lưu vào file url.json, lấy file đó import vào excel là được
